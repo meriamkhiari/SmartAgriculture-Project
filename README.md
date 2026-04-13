@@ -97,4 +97,4 @@ Navigate through the sidebar to access different analysis tools.
 
 ## License
 
-This project is licensed under the terms provided by the development team.
+This project is licensed under the terms provided by the Data Brains team at ESPRIT.
