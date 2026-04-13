@@ -60,8 +60,8 @@ agriculture_platform/
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd Agriculture_website-master
+   git clone https://github.com/meriamkhiari/SmartAgriculture-Project.git
+   cd SmartAgriculture-Project
    ```
 
 2. Create and activate a virtual environment:
